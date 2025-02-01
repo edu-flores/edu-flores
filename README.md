@@ -8,9 +8,3 @@
   eduardo.floresramones@gmail.com | 
   <a href="https://www.linkedin.com/in/eduardo-flores-ramones/">LinkedIn</a>
 </div>
-
-<br>
-
-✍️ Currently learning HTML5, CSS3, JavaScript, Vue, React, Bootstrap, Tailwind, Python, MySQL and more...
-
-🧑‍💻 Check my `coding` projects below!
