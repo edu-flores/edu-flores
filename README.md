@@ -1,6 +1,6 @@
 <div align="center">
-  <h1><a href="https://edu-flores.github.io/">Eduardo Flores</a></h1>
+  <h2><a href="https://edu-flores.github.io/">Eduardo Flores (Website)</a></h2>
   <p>
-    Software engineer who loves calisthenics 🤸 guitars 🎸 books 📖 and linux 🐧
+    Software engineer who loves calisthenics 🤸  •  guitars 🎸  •  books 📚  •  linux 🐧
   </p>
 </div>
